@@ -1,2 +1,4 @@
 # WeatherPatterns-MachineLearning
-First project for a Machine Learning course to depict weather patterns to predict future weather conditions.
+Project #1 for Machine Learning course which aim was to depict weather occurences and predict future weather conditions based on previous patterns.
+
+Please note that this code was originally set within Jupyter Notebook.
